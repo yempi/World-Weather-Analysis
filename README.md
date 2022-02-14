@@ -17,10 +17,10 @@ Data Source:
 - Google Maps 
 
 Software:
-
+- Jupyter Notebook
+- Python 3.7.6
+- Anaconda 4.11.0
 -Jupyter Notebook
--Python 3.7.6
--Anaconda 4.11.0
 
 ## Results
 
