@@ -1,4 +1,4 @@
-# World-Weather-Analysis
+### World-Weather-Analysis
 
 ## Project Overview
 This project consists on 3 technical analysis
@@ -23,4 +23,15 @@ Software:
 -Jupyter Notebook
 
 ## Results
+# Retrieving Weather Data
+A database according to the 2k latitudes and longitudes was created with the corresponding nearby city.
 
+<img width="981" alt="Screen Shot 2022-02-13 at 10 36 48 PM" src="https://user-images.githubusercontent.com/83614893/153800857-4f53955e-238a-425c-b8f7-13792c74f3c3.png">
+
+# Create a customer travel destinations map
+With a reference from customer's preference travel destinations were suggested along with hotels.
+![image](https://user-images.githubusercontent.com/83614893/153801015-8e931b06-7600-41b9-a071-6fe926e05f1d.png)
+
+# Create a travel itinerary map
+Google Directions API suggested a travel route based on the 4 cities that were selected for the trip
+<img width="1372" alt="WeatherPy_travel_map_markers" src="https://user-images.githubusercontent.com/83614893/153801132-9066b21b-0738-44e5-869a-6cd321955ba7.png">
